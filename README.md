@@ -167,4 +167,4 @@ My goal is to develop strong hardware-design fundamentals and build reliable, we
 
 ---
 
-*Designing, verifying and optimizing digital hardware — one project at a time.*
+*Building digital hardware, learning from every design, and turning ideas into silicon.*
